@@ -1,4 +1,4 @@
-// import "./App.css";
+import "./App.css";
 import { useState, useEffect } from "react";
 import Modal from "react-modal";
 import CheckBox from "./components/CheckBox";
